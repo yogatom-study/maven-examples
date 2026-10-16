@@ -9,8 +9,7 @@ import static org.junit.Assert.assertThat;
  * @author Petri Kainulainen
  */
 public class FizzBuzzTest {
-
-    private FizzBuzz fizzBuzz;
+private FizzBuzz fizzBuzz;
 
     @Before
     public void setUp() {
